@@ -1,0 +1,56 @@
+{
+  "brand": {
+    "nameAlt": "RightsTrade",
+    "slogan": "2D and 3D Engine"
+  },
+  "sections": [
+    {
+      "title": "Our Engine",
+      "links": [
+        { "path": "/signup", "label": "Sign up" },
+        { "path": "/login", "label": "Login" }
+      ]
+    },
+    {
+      "title": "Project",
+      "links": [
+        { "path": "/2dgames", "label": "Make 2D Games" },
+        { "path": "/3dgames", "label": "Unlock 2D Games" },
+        { "path": "/refine2dgames", "label": "OpenSource 2D Games" },
+        { "path": "/refine3dgames", "label": "OpenSource 3D Games" },
+        { "path": "/gamecovers", "label": "Make GameCovers" }
+      ]
+    },
+    {
+      "title": "Resources",
+      "links": [
+        { "path": "/blogs", "label": "Blogs" },
+        { "path": "/contact-us", "label": "Contact" },
+        { "path": "/teammembers", "label": "Team" }
+      ]
+    },
+    {
+      "title": "Foundation",
+      "links": [
+        { "path": "/about", "label": "About Us" },
+        { "path": "/doante", "label": "Donate" },
+        { "path": "/privacy", "label": "Privacy" },
+        { "path": "/terms", "label": "Terms" }
+      ]
+    }
+  ],
+  "social": {
+    "links": [
+      { "name": "Facebook", "link": "d" },
+      { "name": "Twitter", "link": "d" },
+      { "name": "Youtube", "link": "d" },
+      { "name": "LinkedIn", "link": "d" }
+    ]
+  },
+  "copyright": {
+    "text": "Copyright ©",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookies Policy",
+    "terms": "Terms of Service"
+  }
+}

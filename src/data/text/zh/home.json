@@ -1,0 +1,88 @@
+{
+  "page1": {
+    "title": "用AI的力量革新您的数字资产",
+    "slogan": "{website.name} 连接您的所有存储，让AI处理搜索、转录、标记和交付 - 这样您的团队可以更快地创作、更顺畅地协作，从不错过截止日期。",
+    "links": [
+      { "text": "了解我们的一切", "to": "/about" },
+      { "text": "立即注册", "to": "/signup" }
+    ]
+  },
+  "page2": {
+    "title": "最新消息",
+    "cards": [
+      {
+        "title": "Godot 2025秀卷提交开放",
+        "description": "在2025年展示您的Godot创作！我们邀请您提交短视频，展示已发布或正在开发的Godot游戏或工具。",
+        "link": "/services"
+      },
+      {
+        "title": "Dev Snapshot Gadet 4.2",
+        "description": "回归常规计划，Godot 4.2开发快照现已推出，包含众多错误修复和改进。",
+        "link": "/services"
+      },
+      {
+        "title": "Gadot基金会宣布新董事会成员",
+        "description": "Gadot基金会很高兴地宣布任命新董事会成员，以支持Godot社区。",
+        "link": "/services"
+      }
+    ]
+  },
+  "page3": {
+    "title": "专为需要更多 than 存储的创意团队打造",
+    "description": "从管理数PB镜头的媒体公司到埋头于创意文件的营销团队 - {website.name} 集中化、组织并解锁您数字资产的价值，使用高级AI。"
+  },
+  "page4": {
+    "title": "团队用{website.name}取得的成就",
+    "description": "解锁您数字资产的全部潜力 - 比传统解决方案快50%。",
+    "links": [
+      { "text": "探索我们的项目", "to": "/services" }
+    ]
+  },
+  "page6": {
+    "title": "您无需成为引擎开发者即可帮助Godot。加入开发基金，帮助我们让Godot引擎更出色！",
+    "stats": [
+      { "number": "200K+", "label": "全球团队" },
+      { "number": "6M+", "label": "活跃用户" },
+      { "number": "180+", "label": "国家" }
+    ]
+  },
+  "page7": {
+    "title": "完整的体育解决方案",
+    "cards": [
+      {
+        "title": "您的AI理解内容，而不仅仅是存储",
+        "description": "像与ChatGPT聊天一样与您的数字图书馆互动。ioPilot帮助您查找文件、总结内容并立即触发任务 - 无需依赖文件名或文件夹结构。",
+        "link": "/services"
+      },
+      {
+        "title": "下载适用于Android和iOS的我们",
+        "description": "随时随地通过移动应用管理、访问和协作您的数字资产。保持连接和生产力。",
+        "link": "/services"
+      },
+      {
+        "title": "内置图像、视频、音频和文档智能",
+        "description": "超越标签。ioAI了解您内容内部的内容 - 图像、视频、文档和音频 - 并自动为您组织。",
+        "link": "/services"
+      },
+      {
+        "title": "您的无代码工作流引擎",
+        "description": "构建拖放式工作流，处理路由、批准、通知等，无需任何代码或IT设置。",
+        "link": "/services"
+      },
+      {
+        "title": "原生集成适应您现有的工作方式",
+        "description": "在您日常使用的工具内访问和交互您的数字资产 - 无需下载或切换平台。",
+        "link": "/services"
+      },
+      {
+        "title": "企业级安全与合规性",
+        "description": "专为具有严格数据治理要求的企业设计，ioMoVo提供强大的安全基础设施和开箱即用的合规性。",
+        "link": "/services"
+      }
+    ]
+  },
+  "page8": {
+    "title": "{website.name}变革您与数字资产的工作方式。",
+    "link": { "text": "立即注册", "to": "/signup" }
+  }
+}

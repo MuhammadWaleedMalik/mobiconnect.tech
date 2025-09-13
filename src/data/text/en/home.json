@@ -1,0 +1,88 @@
+{
+  "page1": {
+    "title": "Revolutionize Your Digital Assets with the Power of AI",
+    "slogan": "{website.name} connects all your storage and lets AI handle search, transcription, tagging, and delivery - so your team can create faster, collaborate smoothly, and never miss a deadline.",
+    "links": [
+      { "text": "Know Everything Aboutus", "to": "/about" },
+      { "text": "Sign Up Now", "to": "/signup" }
+    ]
+  },
+  "page2": {
+    "title": "Latest news",
+    "cards": [
+      {
+        "title": "Submissions open for Godot 2025 showreel",
+        "description": "Showcase your Godot creations in 2025! We're inviting submissions of short videos featuring your published or in-progress Godot games or tools.",
+        "link": "/services"
+      },
+      {
+        "title": "Dev Snapshor Gadet 4.2",
+        "description": "Back to our regular schedule, the Godot 4.2 development snapshot is now available with numerous bug fixes and improvements.",
+      "link": "/services"
+        },
+      {
+        "title": "Gadot Founation announces new board members",
+        "description": "The Gadot Foundation is pleased to announce the appointment of new board members to support the Godot community.",
+        "link": "/services"
+      }
+    ]
+  },
+  "page3": {
+    "title": "Built for Creative Teams Who Need More Than Just Storage",
+    "description": "From media companies managing petabytes of footage to marketing teams buried in creative files - {website.name} centralizes, organizes, and unlocks the value of your digital assets with advanced AI."
+  },
+  "page4": {
+    "title": "What Teams Achieve with {website.name}",
+    "description": "Unlock the full potential of your digital assets – 50% faster than traditional solutions.",
+    "links": [
+      { "text": "Explore Our Programs", "to": "/services" }
+    ]
+  },
+  "page6": {
+    "title": "You don't need to be an engine developer to help Godot. Join the development fund and help us make the Godot Engine even more awesome!",
+    "stats": [
+      { "number": "200K+", "label": "Teams Worldwide" },
+      { "number": "6M+", "label": "Active Users" },
+      { "number": "180+", "label": "Countries" }
+    ]
+  },
+  "page7": {
+    "title": "Complete Sports Solutions",
+    "cards": [
+      {
+        "title": "Your AI That Understands Content, Not Just Stores It",
+        "description": "Chat with your digital library like you would with ChatGPT. ioPilot helps you find files, summarize content, and trigger tasks instantly - without relying on filenames or folder structure.",
+          "link": "/services"
+    },
+      {
+        "title": "Download US for Android and iOS",
+        "description": "Manage, access, and collaborate on your digital assets anytime, anywhere with the  mobile app. Stay connected and productive on the go.",
+        "link": "/services"
+      },
+      {
+        "title": "Built-In Intelligence for Images, Video, Audio, and Docs",
+        "description": "Go deeper than tags. ioAI understands what’s inside your content - images, videos, docs, and audio - and organizes it for you automatically.",
+        "link": "/services"
+      } ,
+      {
+        "title": "Your No-Code Workflow Engine",
+        "description": "Build drag-and-drop workflows that handle routing, approvals, notifications, and more, without any code or IT setup.”",
+        "link": "/services"
+      },
+      {
+        "title": "Native Integrations That Fit How You Already Work",
+        "description": "Access and interact with your digital assets inside the tools you use daily—no downloads or switching platforms required.",
+        "link": "/services"
+      },
+      {
+        "title": "Enterprise-Grade Security & Compliance",
+        "description": "Designed for organizations with strict data governance requirements, ioMoVo delivers a robust security infrastructure and compliance out of the box.",
+        "link": "/services"
+      }
+    ]
+  },
+  "page8": {
+    "title": "{website.name} Transform How You Work With Your Digital Assets.",
+    "link": { "text": "Sign Up Now", "to": "/signup" }
+  }
+}

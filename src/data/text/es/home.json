@@ -1,0 +1,88 @@
+{
+  "page1": {
+    "title": "Revolucione sus activos digitales con el poder de la IA",
+    "slogan": "{website.name} conecta todo su almacenamiento y permite que la IA maneje la búsqueda, transcripción, etiquetado y entrega - para que su equipo pueda crear más rápido, colaborar sin problemas y nunca perder un plazo.",
+    "links": [
+      { "text": "Conozca todo sobre nosotros", "to": "/about" },
+      { "text": "Regístrese ahora", "to": "/signup" }
+    ]
+  },
+  "page2": {
+    "title": "Últimas noticias",
+    "cards": [
+      {
+        "title": "Apertura de envíos para el showreel de Godot 2025",
+        "description": "¡Muestre sus creaciones de Godot en 2025! Estamos invitando a enviar videos cortos que presenten sus juegos o herramientas de Godot publicados o en progreso.",
+        "link": "/services"
+      },
+      {
+        "title": "Dev Snapshot Gadet 4.2",
+        "description": "De vuelta a nuestro horario regular, el desarrollo snapshot de Godot 4.2 está disponible con numerosas correcciones de errores y mejoras.",
+        "link": "/services"
+      },
+      {
+        "title": "Gadot Foundation anuncia nuevos miembros de la junta",
+        "description": "La Fundación Gadot se complace en anunciar la designación de nuevos miembros de la junta para apoyar a la comunidad de Godot.",
+        "link": "/services"
+      }
+    ]
+  },
+  "page3": {
+    "title": "Diseñado para equipos creativos que necesitan más que solo almacenamiento",
+    "description": "Desde empresas de medios que gestionan petabytes de metraje hasta equipos de marketing enterrados en archivos creativos - {website.name} centraliza, organiza y desbloquea el valor de sus activos digitales con IA avanzada."
+  },
+  "page4": {
+    "title": "Lo que los equipos logran con {website.name}",
+    "description": "Desbloquee el potencial completo de sus activos digitales - 50% más rápido que las soluciones tradicionales.",
+    "links": [
+      { "text": "Explore nuestros programas", "to": "/services" }
+    ]
+  },
+  "page6": {
+    "title": "No necesita ser un desarrollador de motores para ayudar a Godot. ¡Únase al fondo de desarrollo y ayúdenos a hacer que el motor Godot sea aún más increíble!",
+    "stats": [
+      { "number": "200K+", "label": "Equipos en todo el mundo" },
+      { "number": "6M+", "label": "Usuarios activos" },
+      { "number": "180+", "label": "Países" }
+    ]
+  },
+  "page7": {
+    "title": "Soluciones deportivas completas",
+    "cards": [
+      {
+        "title": "Su IA que entiende el contenido, no solo lo almacena",
+        "description": "Chatee con su biblioteca digital como lo haría con ChatGPT. ioPilot lo ayuda a encontrar archivos, resumir contenido y desencadenar tareas al instante - sin depender de nombres de archivos o estructura de carpetas.",
+        "link": "/services"
+      },
+      {
+        "title": "Descárguenos para Android e iOS",
+        "description": "Gestione, acceda y colabore en sus activos digitales en cualquier momento y lugar con la aplicación móvil. Manténgase conectado y productivo en movimiento.",
+        "link": "/services"
+      },
+      {
+        "title": "Inteligencia integrada para imágenes, videos, audio y documentos",
+        "description": "Vaya más allá de las etiquetas. ioAI entiende qué hay dentro de su contenido - imágenes, videos, documentos y audio - y lo organiza automáticamente para usted.",
+        "link": "/services"
+      },
+      {
+        "title": "Su motor de flujo de trabajo sin código",
+        "description": "Cree flujos de trabajo de arrastrar y soltar que manejen enrutamiento, aprobaciones, notificaciones y más, sin ningún código o configuración de TI.",
+        "link": "/services"
+      },
+      {
+        "title": "Integraciones nativas que se adaptan a cómo ya trabaja",
+        "description": "Acceda e interactúe con sus activos digitales dentro de las herramientas que usa diariamente - sin descargas ni cambios de plataforma requeridos.",
+        "link": "/services"
+      },
+      {
+        "title": "Seguridad y cumplimiento de grado empresarial",
+        "description": "Diseñado para organizaciones con requisitos estrictos de gobernanza de datos, ioMoVo ofrece una infraestructura de seguridad robusta y cumplimiento listo para usar.",
+        "link": "/services"
+      }
+    ]
+  },
+  "page8": {
+    "title": "{website.name} transforma cómo trabaja con sus activos digitales.",
+    "link": { "text": "Regístrese ahora", "to": "/signup" }
+  }
+}
